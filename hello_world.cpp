@@ -1,8 +1,8 @@
 #include <string>
 #include <iostream>
-using namespace std;
 int main 
 {
+	//программа выводит сообщение приветсвия 
 	string name;
 	cin>>name;
 	cout<<"Hello world from "<<name; 
